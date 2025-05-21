@@ -14,7 +14,7 @@ This is a simple interactive web app that simulates tossing a coin. You can adju
 ![Coin Toss App Screenshot](images/coin-toss-screenshot.png)
 
 ## 🚀 Live Demo
-👉 [Try the live app here]([https://your-app-name.onrender.com](https://coin-toss-app-1-ugyz.onrender.com))
+👉 [Try the live app here]([https://your-app-name.onrender.com](https://coin-toss-app-1-ugyz.onrender.com)
 
 ## 📁 Tech Stack
 - Python
